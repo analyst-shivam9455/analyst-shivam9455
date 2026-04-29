@@ -31,7 +31,7 @@
 - Built a 5-page Power BI dashboard covering inventory, fulfillment, and profit analysis
 - **Tools:** SQL (MySQL), Power BI, DAX
 
-### ✅ [Olist Data Validation Project](https://github.com/analyst-shivam9455)
+### ✅ [Olist Data Validation Project](https://github.com/analyst-shivam9455/Olist-Data-Validation-Project)
 - Ran **100+ data quality checks** across multiple relational tables
 - Flagged 200K+ issues across completeness, consistency, validity, and uniqueness
 - Built a Power BI dashboard to track data quality scores for stakeholders
